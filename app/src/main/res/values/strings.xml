@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hint_yearold">1990</string>
+    <string name="hint_monthold">01</string>
+    <string name="hint_dayold">21</string>
+    <string name="hint_yearnow">2020</string>
+    <string name="hint_monthnow">08</string>
+    <string name="hint_daynow">08</string>
+
+</resources>
